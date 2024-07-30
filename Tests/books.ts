@@ -34,5 +34,4 @@ describe('BooksService', () => {
     expect(service).toBeDefined();
   });
 
-  // Additional tests for borrowBook, returnBook, and findAllBooks methods
 });
